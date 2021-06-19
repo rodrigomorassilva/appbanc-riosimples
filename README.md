@@ -9,7 +9,7 @@ Olá! Este código foi criado como um projeto de uma aplicação simples que rea
 - Utilização de List
 - Utilização de Métodos
 
-Código criado acompanhando as aulas C# pela Digital Inovation One, seguindo as instruções do professor Eliezer Zarpelão.
+Código para operações bancárias simples, criado acompanhando as aulas de C# pela Digital Inovation One, seguindo as instruções do professor Eliezer Zarpelão.
 
 Funções:
 
